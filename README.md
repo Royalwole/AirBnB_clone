@@ -1,6 +1,6 @@
 # AirBnB Clone
-## Description of the project
-The goal of the project is to create a replica of the [Airbnb Website](https://www.airbnb.com/) using my server. The final version of this project will have:
+Description of this project:
+The aim of the project is to create a replica of the [Airbnb Website]. This project will have:
 - A command interpreter to manipulate data without a visual interface, like a shell (for development and debugging)
 - A website (front-end) with static and dynamic functionalities
 - A comprehensive database to manage the backend functionalities
